@@ -24,14 +24,35 @@ Here’s a sneak peek at what’s inside this repository:
 
 - **README.md**: You're looking at it! 📖
 
+<<<<<<< HEAD
 ## 🚀 Getting Started
 
 1. **Clone the Repo**:
    ```bash
    git clone https://github.com/nadzima/IBM-Machine-Learning-Capstone.git
+=======
+## 🎉 Running the Course Recommender App
+
+To run the interactive course recommender app built with Streamlit, follow these steps:
+
+1. **Navigate to the App Directory**:
+   ```bash
+   cd IBM-Machine-Learning-Capstone/app
+2. **Install Streamlit**: If you haven’t already installed Streamlit, you can do so with:
+   ```bash
+   pip install streamlit
+   pip install streamlit-aggrid
+3. Run the Streamlit App:
+   ```bash
+   streamlit run recommender_app.py
+>>>>>>> 116789b18c9d2730c0aec51609fb79b61a9a270b
 
 ## 📬 Contact
 
 For any questions, reach out via your email or create an issue in this repository.
 
+<<<<<<< HEAD
 Happy coding and happy recommending! 🚀
+=======
+Happy coding and happy recommending! 🚀
+>>>>>>> 116789b18c9d2730c0aec51609fb79b61a9a270b
