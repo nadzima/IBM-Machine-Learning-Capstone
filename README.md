@@ -24,7 +24,6 @@ Here’s a sneak peek at what’s inside this repository:
 
 - **README.md**: You're looking at it! 📖
 
-<<<<<<< HEAD
 ## 🚀 Getting Started
 
 1. **Clone the Repo**:
@@ -45,14 +44,9 @@ To run the interactive course recommender app built with Streamlit, follow these
 3. Run the Streamlit App:
    ```bash
    streamlit run recommender_app.py
->>>>>>> 116789b18c9d2730c0aec51609fb79b61a9a270b
 
 ## 📬 Contact
 
 For any questions, reach out via your email or create an issue in this repository.
 
-<<<<<<< HEAD
 Happy coding and happy recommending! 🚀
-=======
-Happy coding and happy recommending! 🚀
->>>>>>> 116789b18c9d2730c0aec51609fb79b61a9a270b
